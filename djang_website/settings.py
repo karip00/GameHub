@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     # Add our new application
     'main',
     'users',
-    'user_payment',
+    # 'user_payment',
     'tinymce',
     'embed_video',
     'fontawesomefree',
