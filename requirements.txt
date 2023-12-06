@@ -1,0 +1,15 @@
+django
+django-tinymce
+fontawesomefree
+django-crispy-forms
+django-recaptcha
+captcha
+django_simple_captcha
+crispy_forms
+django_crispy_forms
+crispy-bootstrap4
+pillow
+django-embed-video
+stripe
+six
+django-allauth
